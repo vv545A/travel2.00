@@ -1,0 +1,506 @@
+{
+  "version": "1.0",
+  "photosDir": "D:\\桌面\\用AI干一件大事\\项目一\\travel record\\photos",
+  "records": [
+    {
+      "cityName": "厦门市",
+      "cityCode": "350200",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#FFDFBA",
+      "lat": 24.493123836324873,
+      "lng": 118.10525352381036,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "我的家",
+        "images": []
+      }
+    },
+    {
+      "cityName": "南昌市",
+      "cityCode": "360100",
+      "provinceName": "江西省",
+      "provinceCode": "360000",
+      "color": "#FFDFBA",
+      "lat": 28.679861699393648,
+      "lng": 115.88730544145511,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "我的学校",
+        "images": []
+      }
+    },
+    {
+      "cityName": "杭州市",
+      "cityCode": "330100",
+      "provinceName": "浙江省",
+      "provinceCode": "330000",
+      "color": "#FFFFBA",
+      "lat": 30.289783730682856,
+      "lng": 120.14887601948591,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "南京市",
+      "cityCode": "320100",
+      "provinceName": "江苏省",
+      "provinceCode": "320000",
+      "color": "#FFDFBA",
+      "lat": 32.04358286209601,
+      "lng": 118.76219449229396,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "西安市",
+      "cityCode": "610100",
+      "provinceName": "陕西省",
+      "provinceCode": "610000",
+      "color": "#FFB3BA",
+      "lat": 34.26473629573584,
+      "lng": 108.9433513187207,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "",
+        "images": [
+          "photo_1783862313949_u2ki.png"
+        ]
+      }
+    },
+    {
+      "cityName": "长沙市",
+      "cityCode": "430100",
+      "provinceName": "湖南省",
+      "provinceCode": "430000",
+      "color": "#FFC8DD",
+      "lat": 28.197494210266946,
+      "lng": 112.97670239489399,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "去了橘子洲头",
+        "images": []
+      }
+    },
+    {
+      "cityName": "呼伦贝尔市",
+      "cityCode": "150700",
+      "provinceName": "内蒙古自治区",
+      "provinceCode": "150000",
+      "color": "#BAFFC9",
+      "lat": 49.21338884711451,
+      "lng": 119.75081253574118,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "草原很美",
+        "images": []
+      }
+    },
+    {
+      "cityName": "哈尔滨市",
+      "cityCode": "230100",
+      "provinceName": "黑龙江省",
+      "provinceCode": "230000",
+      "color": "#BAE1FF",
+      "lat": 45.75501586933661,
+      "lng": 126.63649398976204,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "好冷，去了冰雪大世界",
+        "images": [
+          "photo_1783862654262_spja.jpg",
+          "photo_1783862654263_6om9.jpg"
+        ]
+      }
+    },
+    {
+      "cityName": "萍乡市",
+      "cityCode": "360300",
+      "provinceName": "江西省",
+      "provinceCode": "360000",
+      "color": "#FFFFBA",
+      "lat": 27.626353422049757,
+      "lng": 113.84687896237804,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "去爬了武功山！成功登顶",
+        "images": [
+          "photo_1783862621359_2fwk.jpg"
+        ]
+      }
+    },
+    {
+      "cityName": "岳阳市",
+      "cityCode": "430600",
+      "provinceName": "湖南省",
+      "provinceCode": "430000",
+      "color": "#BAE1FF",
+      "lat": 29.37284248500677,
+      "lng": 113.12689437228451,
+      "checkinDate": "2026-07-12",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "张家界市",
+      "cityCode": "430800",
+      "provinceName": "湖南省",
+      "provinceCode": "430000",
+      "color": "#BAFFC9",
+      "lat": 29.130259642684322,
+      "lng": 110.47497976850272,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "成都市",
+      "cityCode": "510100",
+      "provinceName": "四川省",
+      "provinceCode": "510000",
+      "color": "#FFB3BA",
+      "lat": 30.66188282140012,
+      "lng": 104.06322753607961,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "桂林市",
+      "cityCode": "450300",
+      "provinceName": "广西壮族自治区",
+      "provinceCode": "450000",
+      "color": "#C9E4DE",
+      "lat": 25.27703694110253,
+      "lng": 110.29451952918298,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "南宁市",
+      "cityCode": "450100",
+      "provinceName": "广西壮族自治区",
+      "provinceCode": "450000",
+      "color": "#FFFFBA",
+      "lat": 22.82678507135447,
+      "lng": 108.31601543364846,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "昆明市",
+      "cityCode": "530100",
+      "provinceName": "云南省",
+      "provinceCode": "530000",
+      "color": "#FFC8DD",
+      "lat": 25.04358171074637,
+      "lng": 102.71080946742259,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "丽江市",
+      "cityCode": "530700",
+      "provinceName": "云南省",
+      "provinceCode": "530000",
+      "color": "#C9E4DE",
+      "lat": 26.875655614237285,
+      "lng": 100.23189804212551,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "迪庆藏族自治州",
+      "cityCode": "533400",
+      "provinceName": "云南省",
+      "provinceCode": "530000",
+      "color": "#BAE1FF",
+      "lat": 27.83034338466438,
+      "lng": 99.70536196783911,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "武汉市",
+      "cityCode": "420100",
+      "provinceName": "湖北省",
+      "provinceCode": "420000",
+      "color": "#BAE1FF",
+      "lat": 30.586779125965926,
+      "lng": 114.29313688023267,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "漳州市",
+      "cityCode": "350600",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#A7BED3",
+      "lat": 24.513849124165716,
+      "lng": 117.6569887489891,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "泉州市",
+      "cityCode": "350500",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#E8BAFF",
+      "lat": 24.911854039266363,
+      "lng": 118.5849734245365,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "龙岩市",
+      "cityCode": "350800",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#BAFFC9",
+      "lat": 25.094324132650808,
+      "lng": 117.02485924300947,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "三明市",
+      "cityCode": "350400",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#FFFFBA",
+      "lat": 26.26887564990304,
+      "lng": 117.63010667951825,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "南平市",
+      "cityCode": "350700",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#BAFFC9",
+      "lat": 26.638924157274463,
+      "lng": 118.17347465647597,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "莆田市",
+      "cityCode": "350300",
+      "provinceName": "福建省",
+      "provinceCode": "350000",
+      "color": "#BAFFC9",
+      "lat": 25.433788253889464,
+      "lng": 119.00282582851777,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "温州市",
+      "cityCode": "330300",
+      "provinceName": "浙江省",
+      "provinceCode": "330000",
+      "color": "#C9E4DE",
+      "lat": 28.00390757315001,
+      "lng": 120.66810463395113,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "长春市",
+      "cityCode": "220100",
+      "provinceName": "吉林省",
+      "provinceCode": "220000",
+      "color": "#E8BAFF",
+      "lat": 43.88442659631185,
+      "lng": 125.31797988079086,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "大兴安岭地区",
+      "cityCode": "232700",
+      "provinceName": "黑龙江省",
+      "provinceCode": "230000",
+      "color": "#BAE1FF",
+      "lat": 52.33385229728834,
+      "lng": 124.70380324946764,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "珠海市",
+      "cityCode": "440400",
+      "provinceName": "广东省",
+      "provinceCode": "440000",
+      "color": "#BAE1FF",
+      "lat": 22.22794803985044,
+      "lng": 113.54890687410106,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "汕头市",
+      "cityCode": "440500",
+      "provinceName": "广东省",
+      "provinceCode": "440000",
+      "color": "#FFB3BA",
+      "lat": 23.37362902423425,
+      "lng": 116.70393720389013,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": [
+          "photo_1783907548605_1wil.jpg"
+        ]
+      }
+    },
+    {
+      "cityName": "安顺市",
+      "cityCode": "520400",
+      "provinceName": "贵州省",
+      "provinceCode": "520000",
+      "color": "#BAE1FF",
+      "lat": 26.249095388022116,
+      "lng": 105.9288542325237,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "黔西南布依族苗族自治州",
+      "cityCode": "522300",
+      "provinceName": "贵州省",
+      "provinceCode": "520000",
+      "color": "#BAFFC9",
+      "lat": 25.091229082730543,
+      "lng": 104.89551393423093,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "六盘水市",
+      "cityCode": "520200",
+      "provinceName": "贵州省",
+      "provinceCode": "520000",
+      "color": "#FFDFBA",
+      "lat": 26.58829184387927,
+      "lng": 104.84422087779572,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "上海",
+      "cityCode": "310000",
+      "provinceName": "上海市",
+      "provinceCode": "310000",
+      "color": "#FFFFBA",
+      "lat": 31.23557070369575,
+      "lng": 121.463576293016,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "重庆",
+      "cityCode": "500000",
+      "provinceName": "重庆市",
+      "provinceCode": "500000",
+      "color": "#BAE1FF",
+      "lat": 29.541330232971262,
+      "lng": 106.49342843839544,
+      "checkinDate": "2026-07-13",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    },
+    {
+      "cityName": "黄山",
+      "cityCode": "341000",
+      "provinceName": "安徽省",
+      "provinceCode": "340000",
+      "color": "#BDE0FE",
+      "lat": 29.719043696882203,
+      "lng": 118.29670498908254,
+      "checkinDate": "2026-07-15",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    }
+  ],
+  "defaultColor": "#C9E4DE"
+}

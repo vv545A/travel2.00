@@ -1,0 +1,3702 @@
+[
+  {
+    "cityName": "石家庄",
+    "cityCode": "130100",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 38.04274455871788,
+    "lng": 114.47821160539056,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "唐山",
+    "cityCode": "130200",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 39.62977335426239,
+    "lng": 118.15011191521403,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "秦皇岛",
+    "cityCode": "130300",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 39.938060348850364,
+    "lng": 119.56338779650797,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "邯郸",
+    "cityCode": "130400",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 36.61133828787339,
+    "lng": 114.46689595252971,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "邢台",
+    "cityCode": "130500",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 37.066241988834285,
+    "lng": 114.48515350240048,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "保定",
+    "cityCode": "130600",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 38.86416241167071,
+    "lng": 115.45717852026675,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "张家口",
+    "cityCode": "130700",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 40.8065976821999,
+    "lng": 114.8595836546559,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "承德",
+    "cityCode": "130800",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 40.97005867973201,
+    "lng": 117.91409042171234,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "沧州",
+    "cityCode": "130900",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 38.30841922658549,
+    "lng": 116.83436574099309,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "廊坊",
+    "cityCode": "131000",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 39.51945846676346,
+    "lng": 116.68066093820818,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "衡水",
+    "cityCode": "131100",
+    "provinceName": "河北省",
+    "provinceCode": "130000",
+    "lat": 37.73262595556058,
+    "lng": 115.64254253333887,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "太原",
+    "cityCode": "140100",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 37.854819541179005,
+    "lng": 112.52395528203998,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "大同",
+    "cityCode": "140200",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 40.08559284494208,
+    "lng": 113.26730018841646,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阳泉",
+    "cityCode": "140300",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 37.85914915629857,
+    "lng": 113.55762693828873,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "长治",
+    "cityCode": "140400",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 36.190429590335725,
+    "lng": 113.08688775214496,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "晋城",
+    "cityCode": "140500",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 35.499122342583405,
+    "lng": 112.82676467204048,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "朔州",
+    "cityCode": "140600",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 39.32658019495363,
+    "lng": 112.40595088212659,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "晋中",
+    "cityCode": "140700",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 37.693818359784125,
+    "lng": 112.71057921668412,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "运城",
+    "cityCode": "140800",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 35.0258834054722,
+    "lng": 110.98092575189281,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "忻州",
+    "cityCode": "140900",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 38.41540342743751,
+    "lng": 112.70732297224515,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "临汾",
+    "cityCode": "141000",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 36.08452501546279,
+    "lng": 111.49297001286388,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "吕梁",
+    "cityCode": "141100",
+    "provinceName": "山西省",
+    "provinceCode": "140000",
+    "lat": 37.521153107478156,
+    "lng": 111.10882910083909,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "呼和浩特",
+    "cityCode": "150100",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 40.81307445507601,
+    "lng": 111.64378932314095,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "包头",
+    "cityCode": "150200",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 40.65351509534945,
+    "lng": 109.81750626528262,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "乌海",
+    "cityCode": "150300",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 39.670115459805736,
+    "lng": 106.80664878947493,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "赤峰",
+    "cityCode": "150400",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 42.26740700304048,
+    "lng": 118.93185183987035,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "通辽",
+    "cityCode": "150500",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 43.60792369865355,
+    "lng": 122.24093616901541,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鄂尔多斯",
+    "cityCode": "150600",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 39.81312136683415,
+    "lng": 109.96752654726963,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "呼伦贝尔",
+    "cityCode": "150700",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 49.207558705759546,
+    "lng": 119.7287068730845,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "巴彦淖尔",
+    "cityCode": "150800",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 40.75156417602201,
+    "lng": 107.39453063929909,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "乌兰察布",
+    "cityCode": "150900",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 41.02684529359696,
+    "lng": 113.08537357250026,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "兴安盟",
+    "cityCode": "152200",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 46.06817954787999,
+    "lng": 122.04558640947477,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "锡林郭勒盟",
+    "cityCode": "152500",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 43.93510077637502,
+    "lng": 116.06343907242231,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阿拉善盟",
+    "cityCode": "152900",
+    "provinceName": "内蒙古自治区",
+    "provinceCode": "150000",
+    "lat": 38.84271425991087,
+    "lng": 105.68958479982261,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "沈阳",
+    "cityCode": "210100",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.78701272465251,
+    "lng": 123.40452061115855,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "大连",
+    "cityCode": "210200",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 38.911488922430294,
+    "lng": 121.59885413720177,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鞍山",
+    "cityCode": "210300",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.103033136270646,
+    "lng": 122.9737646207564,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "抚顺",
+    "cityCode": "210400",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.86758572658953,
+    "lng": 123.89829988883132,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "本溪",
+    "cityCode": "210500",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.2895387896978,
+    "lng": 123.7469641606213,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "丹东",
+    "cityCode": "210600",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 40.11797223837343,
+    "lng": 124.35976342513608,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "锦州",
+    "cityCode": "210700",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.1110083295474,
+    "lng": 121.11316487831134,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "营口",
+    "cityCode": "210800",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 40.661151541405474,
+    "lng": 122.2144263511506,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阜新",
+    "cityCode": "210900",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 42.00355551265746,
+    "lng": 121.62757570539034,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "辽阳",
+    "cityCode": "211000",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.260783772651614,
+    "lng": 123.15829012666823,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "盘锦",
+    "cityCode": "211100",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.11616716820301,
+    "lng": 122.04765956123681,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "铁岭",
+    "cityCode": "211200",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 42.28207135847643,
+    "lng": 123.8207778144905,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "朝阳",
+    "cityCode": "211300",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 41.56755267323783,
+    "lng": 120.42836172245275,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "葫芦岛",
+    "cityCode": "211400",
+    "provinceName": "辽宁省",
+    "provinceCode": "210000",
+    "lat": 40.7497343125814,
+    "lng": 120.83577954552263,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "长春",
+    "cityCode": "220100",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 43.87724779177944,
+    "lng": 125.29852657304106,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "吉林",
+    "cityCode": "220200",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 43.83452179684414,
+    "lng": 126.53019400727077,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "四平",
+    "cityCode": "220300",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 43.15996853339484,
+    "lng": 124.34587751068787,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "辽源",
+    "cityCode": "220400",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 42.892555016560586,
+    "lng": 125.11970534845283,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "通化",
+    "cityCode": "220500",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 41.71258475571872,
+    "lng": 125.91393004733848,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "白山",
+    "cityCode": "220600",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 41.93246816460652,
+    "lng": 126.40440186235853,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "松原",
+    "cityCode": "220700",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 45.11030566948963,
+    "lng": 124.79838051193994,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "白城",
+    "cityCode": "220800",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 45.61134089893047,
+    "lng": 122.81758040036924,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "延边朝鲜族自治州",
+    "cityCode": "222400",
+    "provinceName": "吉林省",
+    "provinceCode": "220000",
+    "lat": 42.89489777539758,
+    "lng": 129.48541003841137,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "哈尔滨",
+    "cityCode": "230100",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 45.74920961518877,
+    "lng": 126.61866069642657,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "齐齐哈尔",
+    "cityCode": "230200",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 47.33377184581496,
+    "lng": 123.93151886685456,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鸡西",
+    "cityCode": "230300",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 45.29143122053741,
+    "lng": 130.94621093713604,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鹤岗",
+    "cityCode": "230400",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 47.322476897468405,
+    "lng": 130.24627936920228,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "双鸭山",
+    "cityCode": "230500",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 46.63444992704997,
+    "lng": 131.1247606502508,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "大庆",
+    "cityCode": "230600",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 46.58232458880521,
+    "lng": 125.08451560004386,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "伊春",
+    "cityCode": "230700",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 47.71594386441479,
+    "lng": 128.87134408506347,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "佳木斯",
+    "cityCode": "230800",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 46.80047946081986,
+    "lng": 130.330134074677,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "七台河",
+    "cityCode": "230900",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 45.76235414783815,
+    "lng": 130.98475378473447,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "牡丹江",
+    "cityCode": "231000",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 44.57520028322658,
+    "lng": 129.59042101598897,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黑河",
+    "cityCode": "231100",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 50.24263022034463,
+    "lng": 127.46918905321395,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "绥化",
+    "cityCode": "231200",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 46.629647238489156,
+    "lng": 126.96738249466723,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "大兴安岭地区",
+    "cityCode": "232700",
+    "provinceName": "黑龙江省",
+    "provinceCode": "230000",
+    "lat": 52.32969560646662,
+    "lng": 124.68077072276716,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南京",
+    "cityCode": "320100",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 32.04968937249638,
+    "lng": 118.74652414693725,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "无锡",
+    "cityCode": "320200",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 31.582361306722834,
+    "lng": 120.2832831356506,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "徐州",
+    "cityCode": "320300",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 34.26661180106269,
+    "lng": 117.1616557354882,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "常州",
+    "cityCode": "320400",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 31.78120160564642,
+    "lng": 119.92822200440506,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "苏州",
+    "cityCode": "320500",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 31.30810270231716,
+    "lng": 120.60289193533609,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南通",
+    "cityCode": "320600",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 32.024784681146684,
+    "lng": 120.84757731217395,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "连云港",
+    "cityCode": "320700",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 34.60381674297797,
+    "lng": 119.15629311558007,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "淮安",
+    "cityCode": "320800",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 33.60312892550166,
+    "lng": 118.9994727302885,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "盐城",
+    "cityCode": "320900",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 33.3831096489337,
+    "lng": 120.1198659363019,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "扬州",
+    "cityCode": "321000",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 32.40068015109335,
+    "lng": 119.39908507407225,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "镇江",
+    "cityCode": "321100",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 32.21204072496358,
+    "lng": 119.43112520729429,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "泰州",
+    "cityCode": "321200",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 32.493785174515715,
+    "lng": 119.8962062609272,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宿迁",
+    "cityCode": "321300",
+    "provinceName": "江苏省",
+    "provinceCode": "320000",
+    "lat": 33.96841931087679,
+    "lng": 118.25315152098577,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "杭州",
+    "cityCode": "330100",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 30.296709552297607,
+    "lng": 120.13469708585666,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "宁波",
+    "cityCode": "330200",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 29.878662384526997,
+    "lng": 121.53308979701279,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "温州",
+    "cityCode": "330300",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 28.0139539194032,
+    "lng": 120.65613189610225,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "嘉兴",
+    "cityCode": "330400",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 30.77181354616285,
+    "lng": 120.73358154568392,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "湖州",
+    "cityCode": "330500",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 30.875422109587415,
+    "lng": 120.08294161161349,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "绍兴",
+    "cityCode": "330600",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 30.007643665454424,
+    "lng": 120.56577024976147,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "金华",
+    "cityCode": "330700",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 29.101411849499662,
+    "lng": 119.63070422177667,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "衢州",
+    "cityCode": "330800",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 28.954159464697472,
+    "lng": 118.85349467434858,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "舟山",
+    "cityCode": "330900",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 30.025036048685827,
+    "lng": 122.08940757426426,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "台州",
+    "cityCode": "331000",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 28.67316385850958,
+    "lng": 121.4108903438375,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "丽水",
+    "cityCode": "331100",
+    "provinceName": "浙江省",
+    "provinceCode": "330000",
+    "lat": 28.465650895030425,
+    "lng": 119.90416774831185,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "合肥",
+    "cityCode": "340100",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 31.869207818013138,
+    "lng": 117.26100635818234,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "芜湖",
+    "cityCode": "340200",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 31.333771823691883,
+    "lng": 118.3548692780788,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "蚌埠",
+    "cityCode": "340300",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 32.94658281598006,
+    "lng": 117.34005533172015,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "淮南",
+    "cityCode": "340400",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 32.65561274268506,
+    "lng": 116.9964437478173,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "马鞍山",
+    "cityCode": "340500",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 31.697253669301993,
+    "lng": 118.4870820642512,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "淮北",
+    "cityCode": "340600",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 33.977336652887715,
+    "lng": 116.77301445554282,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "铜陵",
+    "cityCode": "340700",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 30.939115480020032,
+    "lng": 117.79518796690324,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "安庆",
+    "cityCode": "340800",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 30.5182323495519,
+    "lng": 117.02206374875054,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黄山",
+    "cityCode": "341000",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 29.719043696882203,
+    "lng": 118.29670498908254,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "滁州",
+    "cityCode": "341100",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 32.31171929644481,
+    "lng": 118.29472027507364,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阜阳",
+    "cityCode": "341200",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 32.904920034360316,
+    "lng": 115.79821818511981,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宿州",
+    "cityCode": "341300",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 33.64003738541103,
+    "lng": 116.9623767114678,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "六安",
+    "cityCode": "341500",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 31.76092809115319,
+    "lng": 116.48707490567863,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "亳州",
+    "cityCode": "341600",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 33.875075727246546,
+    "lng": 115.76074890071583,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "池州",
+    "cityCode": "341700",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 30.665365987466338,
+    "lng": 117.46715171077234,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宣城",
+    "cityCode": "341800",
+    "provinceName": "安徽省",
+    "provinceCode": "340000",
+    "lat": 30.9545246469544,
+    "lng": 118.73749707447871,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "福州",
+    "cityCode": "350100",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 26.08770754139919,
+    "lng": 119.28702089378139,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "厦门",
+    "cityCode": "350200",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 24.501067678189326,
+    "lng": 118.09033016696475,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "莆田",
+    "cityCode": "350300",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 25.44220944262918,
+    "lng": 118.98872511474156,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "三明",
+    "cityCode": "350400",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 26.279217107584568,
+    "lng": 117.61545769852935,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "泉州",
+    "cityCode": "350500",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 24.920838483932656,
+    "lng": 118.57160891725633,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "漳州",
+    "cityCode": "350600",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 24.52275987219538,
+    "lng": 117.64260279375294,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南平",
+    "cityCode": "350700",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 26.64876008263106,
+    "lng": 118.1584435209455,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "龙岩",
+    "cityCode": "350800",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 25.102568022361513,
+    "lng": 117.0102010545921,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宁德",
+    "cityCode": "350900",
+    "provinceName": "福建省",
+    "provinceCode": "350000",
+    "lat": 26.672939490335306,
+    "lng": 119.50838859820102,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南昌",
+    "cityCode": "360100",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 28.68993736958073,
+    "lng": 115.87273335574612,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "景德镇",
+    "cityCode": "360200",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 29.303248115682614,
+    "lng": 117.19355588775358,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "萍乡",
+    "cityCode": "360300",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 27.6365206515856,
+    "lng": 113.83087104106714,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "九江",
+    "cityCode": "360400",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 29.722378872035154,
+    "lng": 115.97262569115607,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "新余",
+    "cityCode": "360500",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 27.824639867469298,
+    "lng": 114.91141853404926,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鹰潭",
+    "cityCode": "360600",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 28.251542713579784,
+    "lng": 117.01324944950679,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "赣州",
+    "cityCode": "360700",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 25.863769102501603,
+    "lng": 114.92137135117049,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "吉安",
+    "cityCode": "360800",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 27.125268122545084,
+    "lng": 114.96662501202215,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宜春",
+    "cityCode": "360900",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 27.816721983565458,
+    "lng": 114.36987323784973,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "抚州",
+    "cityCode": "361000",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 27.99646160724635,
+    "lng": 116.33836779904644,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "上饶",
+    "cityCode": "361100",
+    "provinceName": "江西省",
+    "provinceCode": "360000",
+    "lat": 28.457871986478864,
+    "lng": 117.95110488803935,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "济南",
+    "cityCode": "370100",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 36.67483120264106,
+    "lng": 116.9776855064763,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "青岛",
+    "cityCode": "370200",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 36.082054610759656,
+    "lng": 120.33477904106618,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "淄博",
+    "cityCode": "370300",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 36.812985340195844,
+    "lng": 118.02347114908439,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "枣庄",
+    "cityCode": "370400",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 34.86025846074128,
+    "lng": 117.5352061779258,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "东营",
+    "cityCode": "370500",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 37.43199128160711,
+    "lng": 118.64221330196804,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "烟台",
+    "cityCode": "370600",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 37.535198221406176,
+    "lng": 121.37032717990121,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "潍坊",
+    "cityCode": "370700",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 36.707193892649784,
+    "lng": 119.08321081182036,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "济宁",
+    "cityCode": "370800",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 35.417158189286965,
+    "lng": 116.56605851314063,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "泰安",
+    "cityCode": "370900",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 36.194006810046055,
+    "lng": 117.10476380532512,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "威海",
+    "cityCode": "371000",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 37.50553694783627,
+    "lng": 122.09611596720161,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "日照",
+    "cityCode": "371100",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 35.428879523923186,
+    "lng": 119.43835455204109,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "临沂",
+    "cityCode": "371300",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 35.06730487745032,
+    "lng": 118.30372642003124,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "德州",
+    "cityCode": "371400",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 37.450904627957236,
+    "lng": 116.28430266141308,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "聊城",
+    "cityCode": "371500",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 36.45581567464516,
+    "lng": 115.95780745474147,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "滨州",
+    "cityCode": "371600",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 37.3805066287399,
+    "lng": 117.99289076283867,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "菏泽",
+    "cityCode": "371700",
+    "provinceName": "山东省",
+    "provinceCode": "370000",
+    "lat": 35.24785112688683,
+    "lng": 115.44572152650734,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "郑州",
+    "cityCode": "410100",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 34.76246489780768,
+    "lng": 113.64105538346412,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "开封",
+    "cityCode": "410200",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 34.8004290042475,
+    "lng": 114.31790485119105,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "洛阳",
+    "cityCode": "410300",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 34.66680398108587,
+    "lng": 112.40922540823566,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "平顶山",
+    "cityCode": "410400",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 33.74106631110563,
+    "lng": 113.28266988351415,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "安阳",
+    "cityCode": "410500",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 36.10298804054579,
+    "lng": 114.32831374662968,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鹤壁",
+    "cityCode": "410600",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 35.74856903499456,
+    "lng": 114.27177097049162,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "新乡",
+    "cityCode": "410700",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 35.304951815957544,
+    "lng": 113.86020004491986,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "焦作",
+    "cityCode": "410800",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 35.240958424814615,
+    "lng": 113.2127649361946,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "濮阳",
+    "cityCode": "410900",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 35.76820820338019,
+    "lng": 115.01769413214302,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "许昌",
+    "cityCode": "411000",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 34.02894187731237,
+    "lng": 113.80216668860812,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "漯河",
+    "cityCode": "411100",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 33.58180008107548,
+    "lng": 114.00269760391738,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "三门峡",
+    "cityCode": "411200",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 34.78115891505873,
+    "lng": 111.17004609145816,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南阳",
+    "cityCode": "411300",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 33.007086405715796,
+    "lng": 112.51758615549308,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "商丘",
+    "cityCode": "411400",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 34.44255444350907,
+    "lng": 115.62854921294506,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "信阳",
+    "cityCode": "411500",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 32.13112678490118,
+    "lng": 114.05152001622693,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "周口",
+    "cityCode": "411600",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 33.62699036979917,
+    "lng": 114.62821258134208,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "驻马店",
+    "cityCode": "411700",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 32.98757065030717,
+    "lng": 114.00127945207767,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "济源",
+    "cityCode": "419001",
+    "provinceName": "河南省",
+    "provinceCode": "410000",
+    "lat": 35.09372068978452,
+    "lng": 112.56627277330159,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "武汉",
+    "cityCode": "420100",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.594092582593074,
+    "lng": 114.27686401529168,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "黄石",
+    "cityCode": "420200",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.229530157054384,
+    "lng": 115.05520458231476,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "十堰",
+    "cityCode": "420300",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 32.655539728876434,
+    "lng": 110.76657977810581,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宜昌",
+    "cityCode": "420500",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.712382346089896,
+    "lng": 111.2682323276322,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "襄阳",
+    "cityCode": "420600",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 32.05034917853532,
+    "lng": 112.11989234338465,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "鄂州",
+    "cityCode": "420700",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.407284609136674,
+    "lng": 114.8704003361189,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "荆门",
+    "cityCode": "420800",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 31.044245357457,
+    "lng": 112.18090503551612,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "孝感",
+    "cityCode": "420900",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.936318886423276,
+    "lng": 113.90471285428484,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "荆州",
+    "cityCode": "421000",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.337060399908957,
+    "lng": 112.21525369851635,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黄冈",
+    "cityCode": "421100",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.458370672616407,
+    "lng": 114.85911079058307,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "咸宁",
+    "cityCode": "421200",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 29.842673542646857,
+    "lng": 114.30734864393727,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "随州",
+    "cityCode": "421300",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 31.72508678552135,
+    "lng": 113.3489815012352,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "恩施土家族苗族自治州",
+    "cityCode": "422800",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.29328742706748,
+    "lng": 109.46740498169513,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "仙桃",
+    "cityCode": "429004",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.374524713712518,
+    "lng": 113.42978642043158,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "潜江",
+    "cityCode": "429005",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.43207031691802,
+    "lng": 112.87452388589831,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "天门",
+    "cityCode": "429006",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 30.662381435328033,
+    "lng": 113.14171499445519,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "神农架林区",
+    "cityCode": "429021",
+    "provinceName": "湖北省",
+    "provinceCode": "420000",
+    "lat": 31.753280873523277,
+    "lng": 110.65129278176737,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "长沙",
+    "cityCode": "430100",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 28.207800492970136,
+    "lng": 112.96008621990437,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "株洲",
+    "cityCode": "430200",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 27.84843282027722,
+    "lng": 113.12847140634514,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "湘潭",
+    "cityCode": "430300",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 27.843580643957594,
+    "lng": 112.92239716066533,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "衡阳",
+    "cityCode": "430400",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 26.9147454035656,
+    "lng": 112.58679640970912,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "邵阳",
+    "cityCode": "430500",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 27.250750768217543,
+    "lng": 111.44691175905848,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "岳阳",
+    "cityCode": "430600",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 29.38045236124444,
+    "lng": 113.10897524942824,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "常德",
+    "cityCode": "430700",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 29.052392167756913,
+    "lng": 111.66903607901833,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "张家界",
+    "cityCode": "430800",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 29.138741133064176,
+    "lng": 110.4600751548779,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "益阳",
+    "cityCode": "430900",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 28.582687691256865,
+    "lng": 112.33226389408759,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "郴州",
+    "cityCode": "431000",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 25.80538696476035,
+    "lng": 113.00990469234148,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "永州",
+    "cityCode": "431100",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 26.448905224674572,
+    "lng": 111.58706049705206,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "怀化",
+    "cityCode": "431200",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 27.56366749010865,
+    "lng": 109.95987501882772,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "娄底",
+    "cityCode": "431300",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 27.74133531560603,
+    "lng": 111.98634357533024,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "湘西土家族苗族自治州",
+    "cityCode": "433100",
+    "provinceName": "湖南省",
+    "provinceCode": "430000",
+    "lat": 28.32786984311585,
+    "lng": 109.72082280831465,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "广州",
+    "cityCode": "440100",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.13585921877787,
+    "lng": 113.25928900269817,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "韶关",
+    "cityCode": "440200",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 24.81354604760367,
+    "lng": 113.57074282401243,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "深圳",
+    "cityCode": "440300",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 22.557760664189402,
+    "lng": 114.06543417047511,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "珠海",
+    "cityCode": "440400",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 22.236796418348487,
+    "lng": 113.53358918259815,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "汕头",
+    "cityCode": "440500",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.38149474094777,
+    "lng": 116.69041292998044,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "佛山",
+    "cityCode": "440600",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.03893552074665,
+    "lng": 113.10076745359775,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "江门",
+    "cityCode": "440700",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 22.601178397867205,
+    "lng": 113.07312482669582,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "湛江",
+    "cityCode": "440800",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 21.284435282933632,
+    "lng": 110.34699965959553,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "茂名",
+    "cityCode": "440900",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 21.670892866205655,
+    "lng": 110.90126353683205,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "肇庆",
+    "cityCode": "441200",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.062013516914764,
+    "lng": 112.45150443743019,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "惠州",
+    "cityCode": "441300",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.08942946969822,
+    "lng": 114.39270096889692,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "梅州",
+    "cityCode": "441400",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 24.309605917074887,
+    "lng": 116.0982193171121,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "汕尾",
+    "cityCode": "441500",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 22.78513423100526,
+    "lng": 115.3445833113497,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "河源",
+    "cityCode": "441600",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.7569400278189,
+    "lng": 114.67906879140811,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阳江",
+    "cityCode": "441700",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 21.870316369221637,
+    "lng": 111.9549659141382,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "清远",
+    "cityCode": "441800",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.694979187151063,
+    "lng": 113.0294314362346,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "东莞",
+    "cityCode": "441900",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.057089027630223,
+    "lng": 113.72546463862453,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "中山",
+    "cityCode": "442000",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 22.531928801705583,
+    "lng": 113.36051769032848,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "潮州",
+    "cityCode": "445100",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.672676374357952,
+    "lng": 116.6148192285069,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "揭阳",
+    "cityCode": "445200",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 23.553510673134117,
+    "lng": 116.33704024570584,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "云浮",
+    "cityCode": "445300",
+    "provinceName": "广东省",
+    "provinceCode": "440000",
+    "lat": 22.940478810426654,
+    "lng": 112.02323054978761,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南宁",
+    "cityCode": "450100",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 22.835118247502063,
+    "lng": 108.30409332170049,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "柳州",
+    "cityCode": "450200",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 24.325352512821844,
+    "lng": 109.39327724696939,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "桂林",
+    "cityCode": "450300",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 25.28554398467867,
+    "lng": 110.28076346720026,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "梧州",
+    "cityCode": "450400",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 23.485114358621356,
+    "lng": 111.27708450728359,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "北海",
+    "cityCode": "450500",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 21.482869371028745,
+    "lng": 109.10207814543523,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "防城港",
+    "cityCode": "450600",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 21.624583565828747,
+    "lng": 108.3296188904762,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "钦州",
+    "cityCode": "450700",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 21.978847198569408,
+    "lng": 108.60939970947798,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "贵港",
+    "cityCode": "450800",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 23.10522496118045,
+    "lng": 109.5853852198137,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "玉林",
+    "cityCode": "450900",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 22.6423397659544,
+    "lng": 110.13627129738516,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "百色",
+    "cityCode": "451000",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 23.909375814306635,
+    "lng": 106.60267740623311,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "贺州",
+    "cityCode": "451100",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 24.426134319912066,
+    "lng": 111.53144258128316,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "河池",
+    "cityCode": "451200",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 24.707053661484686,
+    "lng": 108.04521542294496,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "来宾",
+    "cityCode": "451300",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 23.74431486368099,
+    "lng": 109.21257049210179,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "崇左",
+    "cityCode": "451400",
+    "provinceName": "广西壮族自治区",
+    "provinceCode": "450000",
+    "lat": 22.41523199767014,
+    "lng": 107.33743990460272,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "海口",
+    "cityCode": "460100",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 20.0402193115046,
+    "lng": 110.31376405364662,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "三亚",
+    "cityCode": "460200",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 18.254571967693618,
+    "lng": 109.49181860393335,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "三沙",
+    "cityCode": "460300",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 16.837539039746147,
+    "lng": 112.32915148442595,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "儋州",
+    "cityCode": "460400",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.525338373297586,
+    "lng": 109.56070761050486,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "五指山",
+    "cityCode": "469001",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 18.784028322257022,
+    "lng": 109.50020947026111,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "琼海",
+    "cityCode": "469002",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.252449905360738,
+    "lng": 110.44925977981342,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "文昌",
+    "cityCode": "469005",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.620335145479824,
+    "lng": 110.73620013714243,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "万宁",
+    "cityCode": "469006",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 18.802472690589404,
+    "lng": 110.37118765979088,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "东方",
+    "cityCode": "469007",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.10943058100143,
+    "lng": 108.63934675417364,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "定安县",
+    "cityCode": "469021",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.69200669724749,
+    "lng": 110.33172219149336,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "屯昌县",
+    "cityCode": "469022",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.369140963509874,
+    "lng": 110.0851646282044,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "澄迈县",
+    "cityCode": "469023",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.744758968985305,
+    "lng": 109.99022906700287,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "临高县",
+    "cityCode": "469024",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.916802035759527,
+    "lng": 109.67109071087071,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "白沙黎族自治县",
+    "cityCode": "469025",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.23091198291776,
+    "lng": 109.4354144295622,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "昌江黎族自治县",
+    "cityCode": "469026",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.26736922624164,
+    "lng": 109.03699106511104,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "乐东黎族自治县",
+    "cityCode": "469027",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 18.754174363470018,
+    "lng": 109.1590262124665,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "陵水黎族自治县",
+    "cityCode": "469028",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 18.51158093001515,
+    "lng": 110.02018115943179,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "保亭黎族苗族自治县",
+    "cityCode": "469029",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 18.643555717245373,
+    "lng": 109.68597467087484,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "琼中黎族苗族自治县",
+    "cityCode": "469030",
+    "provinceName": "海南省",
+    "provinceCode": "460000",
+    "lat": 19.042886297802017,
+    "lng": 109.82365562189766,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "成都",
+    "cityCode": "510100",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.66916240739957,
+    "lng": 104.05573475021717,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "自贡",
+    "cityCode": "510300",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 29.364128841943458,
+    "lng": 104.76266304029066,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "攀枝花",
+    "cityCode": "510400",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 26.594743516118186,
+    "lng": 101.70973198853034,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "泸州",
+    "cityCode": "510500",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 28.901194898524246,
+    "lng": 105.42896036430143,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "德阳",
+    "cityCode": "510600",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 31.13655000057651,
+    "lng": 104.38793438174433,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "绵阳",
+    "cityCode": "510700",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 31.47281177281233,
+    "lng": 104.73064869798249,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "广元",
+    "cityCode": "510800",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 32.443122657140655,
+    "lng": 105.81478803051316,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "遂宁",
+    "cityCode": "510900",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.524420599945078,
+    "lng": 105.55766100617713,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "内江",
+    "cityCode": "511000",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 29.597352666195032,
+    "lng": 105.05319195484905,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "乐山",
+    "cityCode": "511100",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 29.592990104283125,
+    "lng": 103.7524143994516,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "南充",
+    "cityCode": "511300",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.804524411423717,
+    "lng": 106.06696412284622,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "眉山",
+    "cityCode": "511400",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.059458008338158,
+    "lng": 103.82323184361157,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宜宾",
+    "cityCode": "511500",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 28.773953501676655,
+    "lng": 104.62144827476604,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "广安",
+    "cityCode": "511600",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.46752545055072,
+    "lng": 106.61824499126791,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "达州",
+    "cityCode": "511700",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 31.218374456036315,
+    "lng": 107.48398118677875,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "雅安",
+    "cityCode": "511800",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 29.998542850527645,
+    "lng": 102.99381334497163,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "巴中",
+    "cityCode": "511900",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 31.867531504081587,
+    "lng": 106.73709435025026,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "资阳",
+    "cityCode": "512000",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.133542697047776,
+    "lng": 104.63219641463539,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阿坝藏族羌族自治州",
+    "cityCode": "513200",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 31.90875094609161,
+    "lng": 102.21476424681899,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "甘孜藏族自治州",
+    "cityCode": "513300",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 30.061953134556827,
+    "lng": 101.95774517983256,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "凉山彝族自治州",
+    "cityCode": "513400",
+    "provinceName": "四川省",
+    "provinceCode": "510000",
+    "lat": 27.900517112885776,
+    "lng": 102.25278107216414,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "贵阳",
+    "cityCode": "520100",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 26.59246619788162,
+    "lng": 106.69843810827435,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "六盘水",
+    "cityCode": "520200",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 26.599213934019147,
+    "lng": 104.83664020095158,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "遵义",
+    "cityCode": "520300",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 27.72072106999688,
+    "lng": 106.92193863703235,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "安顺",
+    "cityCode": "520400",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 26.25978512279362,
+    "lng": 105.91888218832622,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "毕节",
+    "cityCode": "520500",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 27.315204664097287,
+    "lng": 105.27216738866193,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "铜仁",
+    "cityCode": "520600",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 27.731394857543375,
+    "lng": 109.17321245844386,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黔西南布依族苗族自治州",
+    "cityCode": "522300",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 25.10055025476048,
+    "lng": 104.88815386905354,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黔东南苗族侗族自治州",
+    "cityCode": "522600",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 26.59762661612001,
+    "lng": 107.9610692560529,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黔南布依族苗族自治州",
+    "cityCode": "522700",
+    "provinceName": "贵州省",
+    "provinceCode": "520000",
+    "lat": 26.271865812529306,
+    "lng": 107.50035843146715,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "昆明",
+    "cityCode": "530100",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 25.05250956038736,
+    "lng": 102.70650113819974,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "曲靖",
+    "cityCode": "530300",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 25.513575486368847,
+    "lng": 103.7897485385174,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "玉溪",
+    "cityCode": "530400",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 24.362682088498513,
+    "lng": 102.53885350815175,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "保山",
+    "cityCode": "530500",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 25.123259012547653,
+    "lng": 99.16347837187139,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "昭通",
+    "cityCode": "530600",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 27.350712192053397,
+    "lng": 103.70886482315207,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "丽江",
+    "cityCode": "530700",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 26.886289868845818,
+    "lng": 100.22850865896685,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "普洱",
+    "cityCode": "530800",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 22.789303499002607,
+    "lng": 100.96758506753658,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "临沧",
+    "cityCode": "530900",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 23.896933858807678,
+    "lng": 100.08196993975747,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "楚雄彝族自治州",
+    "cityCode": "532300",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 25.05429818411473,
+    "lng": 101.54033690231182,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "红河哈尼族彝族自治州",
+    "cityCode": "532500",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 23.37680176771356,
+    "lng": 103.37604527281485,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "文山壮族苗族自治州",
+    "cityCode": "532600",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 23.380209010745073,
+    "lng": 104.23566154171014,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "西双版纳傣族自治州",
+    "cityCode": "532800",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 22.013153573793147,
+    "lng": 100.79344347204463,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "大理白族自治州",
+    "cityCode": "532900",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 25.60153591484486,
+    "lng": 100.22125192765937,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "德宏傣族景颇族自治州",
+    "cityCode": "533100",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 24.44936775829838,
+    "lng": 98.57774170906504,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "怒江傈僳族自治州",
+    "cityCode": "533300",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 25.864294732618898,
+    "lng": 98.85272054238949,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "迪庆藏族自治州",
+    "cityCode": "533400",
+    "provinceName": "云南省",
+    "provinceCode": "530000",
+    "lat": 27.84082801792355,
+    "lng": 99.70207053403708,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "拉萨",
+    "cityCode": "540100",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 29.67122779291115,
+    "lng": 91.12602571428376,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "日喀则",
+    "cityCode": "540200",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 29.28057019809698,
+    "lng": 88.87701264674917,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "昌都",
+    "cityCode": "540300",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 31.146222469534436,
+    "lng": 97.17635212790967,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "林芝",
+    "cityCode": "540400",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 29.665449003731307,
+    "lng": 94.35769055265979,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "山南",
+    "cityCode": "540500",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 29.248324691163695,
+    "lng": 91.76164027234606,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "那曲",
+    "cityCode": "540600",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 31.484906274748642,
+    "lng": 92.05504935614577,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阿里地区",
+    "cityCode": "542500",
+    "provinceName": "西藏自治区",
+    "provinceCode": "540000",
+    "lat": 32.51310724015501,
+    "lng": 80.09662712181792,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "西安",
+    "cityCode": "610100",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 34.26950831586689,
+    "lng": 108.92941035233207,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "铜川",
+    "cityCode": "610200",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 34.92057098770741,
+    "lng": 108.96035437960154,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "宝鸡",
+    "cityCode": "610300",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 34.37437855048862,
+    "lng": 107.1256315948616,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "咸阳",
+    "cityCode": "610400",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 34.33926444477067,
+    "lng": 108.68652322869276,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "渭南",
+    "cityCode": "610500",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 34.5045114492,
+    "lng": 109.48211358192631,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "延安",
+    "cityCode": "610600",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 36.596043570514496,
+    "lng": 109.46910083347247,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "汉中",
+    "cityCode": "610700",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 33.08519575983237,
+    "lng": 107.01055547146552,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "榆林",
+    "cityCode": "610800",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 38.28809803148167,
+    "lng": 109.71886577583558,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "安康",
+    "cityCode": "610900",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 32.6986465947512,
+    "lng": 109.00992235431687,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "商洛",
+    "cityCode": "611000",
+    "provinceName": "陕西省",
+    "provinceCode": "610000",
+    "lat": 33.87507066598749,
+    "lng": 109.91987639511758,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "兰州",
+    "cityCode": "620100",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 36.059242669405315,
+    "lng": 103.81382403366567,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "嘉峪关",
+    "cityCode": "620200",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 39.78325521103085,
+    "lng": 98.27498493817535,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "金昌",
+    "cityCode": "620300",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 38.51246956716551,
+    "lng": 102.17990047905276,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "白银",
+    "cityCode": "620400",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 36.54552583405387,
+    "lng": 104.16256470743697,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "天水",
+    "cityCode": "620500",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 34.583827108846926,
+    "lng": 105.70929066494656,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "武威",
+    "cityCode": "620600",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 37.92888579341776,
+    "lng": 102.62788041681816,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "张掖",
+    "cityCode": "620700",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 38.93035596433086,
+    "lng": 100.44869339693267,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "平凉",
+    "cityCode": "620800",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 35.54455215956666,
+    "lng": 106.66763937546087,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "酒泉",
+    "cityCode": "620900",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 39.740914294786194,
+    "lng": 98.50847225581006,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "庆阳",
+    "cityCode": "621000",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 35.73582903743332,
+    "lng": 107.61947473863302,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "定西",
+    "cityCode": "621100",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 35.58176809786278,
+    "lng": 104.61564643462174,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "陇南",
+    "cityCode": "621200",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 33.39641949913205,
+    "lng": 104.91782176161705,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "临夏回族自治州",
+    "cityCode": "622900",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 35.60087733221888,
+    "lng": 103.20302928260287,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "甘南藏族自治州",
+    "cityCode": "623000",
+    "provinceName": "甘肃省",
+    "provinceCode": "620000",
+    "lat": 34.99088898166845,
+    "lng": 102.90412814364116,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "西宁",
+    "cityCode": "630100",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 36.62348255276973,
+    "lng": 101.77117272127313,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "海东",
+    "cityCode": "630200",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 36.50265540929682,
+    "lng": 102.09498201946427,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "海北藏族自治州",
+    "cityCode": "632200",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 36.959603871901166,
+    "lng": 100.89524554603562,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "黄南藏族自治州",
+    "cityCode": "632300",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 35.51938115099627,
+    "lng": 102.01242216636894,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "海南藏族自治州",
+    "cityCode": "632500",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 36.28197698388654,
+    "lng": 100.61444886211336,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "果洛藏族自治州",
+    "cityCode": "632600",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 34.47950077627193,
+    "lng": 100.23677446646694,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "玉树藏族自治州",
+    "cityCode": "632700",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 33.01258329237588,
+    "lng": 97.006774898501,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "海西蒙古族藏族自治州",
+    "cityCode": "632800",
+    "provinceName": "青海省",
+    "provinceCode": "630000",
+    "lat": 37.3727512674111,
+    "lng": 97.36757830990112,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "银川",
+    "cityCode": "640100",
+    "provinceName": "宁夏回族自治区",
+    "provinceCode": "640000",
+    "lat": 38.46453081640056,
+    "lng": 106.26053273529159,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "石嘴山",
+    "cityCode": "640200",
+    "provinceName": "宁夏回族自治区",
+    "provinceCode": "640000",
+    "lat": 39.009956330880705,
+    "lng": 106.3574159001139,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "吴忠",
+    "cityCode": "640300",
+    "provinceName": "宁夏回族自治区",
+    "provinceCode": "640000",
+    "lat": 37.98394282429092,
+    "lng": 106.18177402271836,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "固原",
+    "cityCode": "640400",
+    "provinceName": "宁夏回族自治区",
+    "provinceCode": "640000",
+    "lat": 36.00524658818369,
+    "lng": 106.26835008470232,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "中卫",
+    "cityCode": "640500",
+    "provinceName": "宁夏回族自治区",
+    "provinceCode": "640000",
+    "lat": 37.51263236208234,
+    "lng": 105.17444275519274,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "乌鲁木齐",
+    "cityCode": "650100",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 43.787927780161944,
+    "lng": 87.60635170148893,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "克拉玛依",
+    "cityCode": "650200",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 45.59261441775053,
+    "lng": 84.86425113584193,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "吐鲁番",
+    "cityCode": "650400",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 42.94133976863031,
+    "lng": 89.17261237997054,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "哈密",
+    "cityCode": "650500",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 42.82713268957726,
+    "lng": 93.50669830882435,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "昌吉回族自治州",
+    "cityCode": "652300",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 44.009372736333,
+    "lng": 87.29166627399182,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "博尔塔拉蒙古自治州",
+    "cityCode": "652700",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 44.89915740227141,
+    "lng": 82.0616307317467,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "巴音郭楞蒙古自治州",
+    "cityCode": "652800",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 41.762545733656694,
+    "lng": 86.14037580650137,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阿克苏地区",
+    "cityCode": "652900",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 41.1667812352304,
+    "lng": 80.25639176357578,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "克孜勒苏柯尔克孜自治州",
+    "cityCode": "653000",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 39.711781160560676,
+    "lng": 76.1606755782481,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "喀什地区",
+    "cityCode": "653100",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 39.46681999068254,
+    "lng": 75.97738456080366,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "和田地区",
+    "cityCode": "653200",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 37.11205570113812,
+    "lng": 79.9176595714651,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "伊犁哈萨克自治州",
+    "cityCode": "654000",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 43.916941773213935,
+    "lng": 81.3058875867558,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "塔城地区",
+    "cityCode": "654200",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 46.74345223125338,
+    "lng": 82.97306150293211,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阿勒泰地区",
+    "cityCode": "654300",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 47.84314640274218,
+    "lng": 88.12614956839988,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "石河子",
+    "cityCode": "659001",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 44.30125773234042,
+    "lng": 86.03006148130778,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "阿拉尔",
+    "cityCode": "659002",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 40.539661751126076,
+    "lng": 81.2747322305692,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "图木舒克",
+    "cityCode": "659003",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 39.86508972613734,
+    "lng": 79.06834760103777,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "五家渠",
+    "cityCode": "659004",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 44.16299376464219,
+    "lng": 87.51481076947373,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "北屯",
+    "cityCode": "659005",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 47.34882725238433,
+    "lng": 87.8123507355229,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "铁门关",
+    "cityCode": "659006",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 41.82182992260386,
+    "lng": 85.49057319214668,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "双河",
+    "cityCode": "659007",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 44.83656321192487,
+    "lng": 82.34095310403112,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "可克达拉",
+    "cityCode": "659008",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 43.678732868943044,
+    "lng": 80.62731640259197,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "昆玉",
+    "cityCode": "659009",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 37.20839712005201,
+    "lng": 79.27852939132117,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "胡杨河",
+    "cityCode": "659010",
+    "provinceName": "新疆维吾尔自治区",
+    "provinceCode": "650000",
+    "lat": 44.68956064031181,
+    "lng": 84.81766220081,
+    "isCapital": false,
+    "level": "city"
+  },
+  {
+    "cityName": "北京",
+    "cityCode": "110000",
+    "provinceName": "北京市",
+    "provinceCode": "110000",
+    "lat": 39.89938173679484,
+    "lng": 116.38032036644212,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "天津",
+    "cityCode": "120000",
+    "provinceName": "天津市",
+    "provinceCode": "120000",
+    "lat": 39.12133473635161,
+    "lng": 117.16483115116263,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "上海",
+    "cityCode": "310000",
+    "provinceName": "上海市",
+    "provinceCode": "310000",
+    "lat": 31.23938588413716,
+    "lng": 121.45445293459228,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "重庆",
+    "cityCode": "500000",
+    "provinceName": "重庆市",
+    "provinceCode": "500000",
+    "lat": 29.544030115872108,
+    "lng": 106.48956064254766,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "香港",
+    "cityCode": "810000",
+    "provinceName": "香港特别行政区",
+    "provinceCode": "810000",
+    "lat": 22.331022974396248,
+    "lng": 114.15344789787895,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "澳门",
+    "cityCode": "820000",
+    "provinceName": "澳门特别行政区",
+    "provinceCode": "820000",
+    "lat": 22.210689476726433,
+    "lng": 113.52864612746181,
+    "isCapital": true,
+    "level": "capital"
+  },
+  {
+    "cityName": "台北",
+    "cityCode": "710000",
+    "provinceName": "台湾省",
+    "provinceCode": "710000",
+    "lat": 25.05545376941847,
+    "lng": 121.49326457625355,
+    "isCapital": true,
+    "level": "capital"
+  }
+]

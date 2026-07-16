@@ -1,0 +1,20 @@
+{
+  "name": "travel-record",
+  "version": "1.0.0",
+  "description": "足迹地图 - 个人旅游记录工具",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "electron": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^28.3.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx install-electron *)",
+      "Bash(node -e \"const e = require\\('electron'\\); console.log\\('Electron version:', e.app ? 'OK' : 'MISSING'\\); console.log\\('Keys:', Object.keys\\(e\\).slice\\(0,10\\)\\)\")",
+      "Bash(node -e \"const path = require\\('path'\\); const e = require\\('electron'\\); console.log\\('Path:', e\\); console.log\\(typeof e\\);\")"
+    ]
+  }
+}

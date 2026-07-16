@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "users": [
+    {
+      "id": "81fa07bc-ccee-43d1-a4ac-0b8eb14ff51c",
+      "email": "wushiwei_54@163.com",
+      "passwordHash": "a66a217fa406af602fc964bfb696689e331ecbc122529035a71bede7081073ef63ba1f8dd5cff6c17e53bcbbd4da644bfb73d8a55c2caabc5e690d50d6d800e9",
+      "passwordSalt": "64ce8cfd2c022eb6f868b793df0a5375",
+      "githubId": null,
+      "githubUsername": null,
+      "createdAt": "2026-07-16T05:19:32.734Z"
+    }
+  ]
+}

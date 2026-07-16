@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>足迹地图 - 个人旅游记录工具</title>
+  <link rel="stylesheet" href="/node_modules/leaflet/dist/leaflet.css">
+  <link rel="stylesheet" href="/renderer/css/style.css">
+</head>
+<body>
+  <!-- ===== 封面动画 ===== -->
+  <div id="splash-screen" class="splash">
+    <div class="splash__text">
+      <h1 class="splash__title">点点足迹</h1>
+      <p class="splash__subtitle splash__subtitle--1">个人旅游记录工具</p>
+      <p class="splash__hint">点击任意位置继续</p>
+      <p class="splash__subtitle splash__subtitle--2">— 把流浪写成诗，将远方纳于方寸 —</p>
+    </div>
+    <div class="splash__btn-wrapper">
+      <button id="btn-splash-login" class="splash__login-btn">登 录</button>
+    </div>
+  </div>
+
+  <!-- ===== 登录/注册弹窗 ===== -->
+  <div id="auth-modal" class="modal" style="display:none;">
+    <div class="modal__overlay"></div>
+    <div class="modal__content auth-modal__content">
+      <!-- Tab 切换 -->
+      <div class="auth-tabs">
+        <button class="auth-tab auth-tab--active" data-tab="login">登录</button>
+        <button class="auth-tab" data-tab="register">注册</button>
+      </div>
+
+      <!-- 登录表单 -->
+      <form id="auth-login-form" class="auth-form">
+        <div class="form-group">
+          <label>邮箱</label>
+          <input type="email" id="login-email" class="auth-input" placeholder="请输入邮箱" required autocomplete="email">
+        </div>
+        <div class="form-group">
+          <label>密码</label>
+          <input type="password" id="login-password" class="auth-input" placeholder="请输入密码" required autocomplete="current-password">
+        </div>
+        <div class="auth-error" id="login-error"></div>
+        <button type="submit" class="btn-primary auth-submit auth-submit--full">登 录</button>
+        <p class="auth-switch">
+          还没有账号？<button type="button" class="auth-switch-btn" data-tab="register">立即注册</button>
+        </p>
+      </form>
+
+      <!-- 注册表单 -->
+      <form id="auth-register-form" class="auth-form" style="display:none;">
+        <div class="form-group">
+          <label>邮箱</label>
+          <input type="email" id="register-email" class="auth-input" placeholder="请输入邮箱" required autocomplete="email">
+        </div>
+        <div class="form-group">
+          <label>密码</label>
+          <input type="password" id="register-password" class="auth-input" placeholder="至少 6 位密码" required minlength="6" autocomplete="new-password">
+        </div>
+        <div class="form-group">
+          <label>确认密码</label>
+          <input type="password" id="register-confirm" class="auth-input" placeholder="再次输入密码" required minlength="6" autocomplete="new-password">
+        </div>
+        <div class="auth-error" id="register-error"></div>
+        <button type="submit" class="btn-primary auth-submit auth-submit--full">注 册</button>
+        <p class="auth-switch">
+          已有账号？<button type="button" class="auth-switch-btn" data-tab="login">返回登录</button>
+        </p>
+      </form>
+    </div>
+  </div>
+
+  <!-- ===== 顶部搜索栏 ===== -->
+  <div id="search-bar">
+    <div class="search-wrapper">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search-input" placeholder="搜索城市名称...">
+      <div id="search-dropdown" class="search-dropdown"></div>
+    </div>
+  </div>
+
+  <!-- ===== 地图容器 ===== -->
+  <div id="map-container">
+    <button id="btn-mode-toggle" class="mode-toggle" title="切换省份模式">🏙️</button>
+  </div>
+
+  <!-- ===== 左侧统计面板 ===== -->
+  <div id="panel-left" class="panel-left panel-left--open">
+    <div class="panel-left__content">
+      <div class="panel-left__header">
+        <h2>📊 我的足迹</h2>
+      </div>
+
+      <div class="panel-left__stats">
+        <div class="stat-item">
+          <span class="stat-label">🗺️ 已点亮省份</span>
+          <span class="stat-value" id="stat-provinces">0 / 34</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">📍 已点亮城市</span>
+          <span class="stat-value" id="stat-cities">0</span>
+        </div>
+      </div>
+
+      <div class="panel-left__bounds">
+        <h3>🧭 足迹四至</h3>
+        <div class="bound-item" id="bound-east">➡️ 最东端：--</div>
+        <div class="bound-item" id="bound-west">⬅️ 最西端：--</div>
+        <div class="bound-item" id="bound-south">⬇️ 最南端：--</div>
+        <div class="bound-item" id="bound-north">⬆️ 最北端：--</div>
+      </div>
+
+      <div class="panel-left__city-list">
+        <h3>📋 打卡城市</h3>
+        <div id="city-list" class="city-list"></div>
+      </div>
+
+      <div class="panel-left__footer">
+        <button id="btn-settings" class="btn-text" title="设置">⚙️ 设置</button>
+      </div>
+    </div>
+    <!-- 折叠按钮 -->
+    <button id="btn-toggle-left" class="panel-left__toggle" title="收起面板">◀</button>
+  </div>
+
+  <!-- ===== 右侧游记面板 ===== -->
+  <div id="panel-right" class="panel-right">
+    <div class="panel-right__header">
+      <h2 id="panel-right-title">📝 游记</h2>
+      <button id="btn-close-right" class="btn-close">✕</button>
+    </div>
+    <div class="panel-right__body">
+      <!-- 查看模式 -->
+      <div id="note-view" class="note-view" style="display:none;">
+        <div class="note-city-name" id="note-city-name"></div>
+        <div class="note-date" id="note-date"></div>
+        <div id="note-travel-dates" class="note-travel-dates" style="display:none;"></div>
+        <div class="note-images" id="note-images"></div>
+        <div class="note-text" id="note-text"></div>
+        <div class="note-actions">
+          <button id="btn-edit-note" class="btn-primary">✏️ 编辑游记</button>
+          <button id="btn-delete-record" class="btn-danger">🗑️ 删除打卡</button>
+        </div>
+      </div>
+      <!-- 编辑模式 -->
+      <div id="note-edit" class="note-edit">
+        <div class="form-group">
+          <label>🗓️ 旅行时间</label>
+          <div class="date-range">
+            <div class="date-range__item">
+              <span class="date-range__label">到达</span>
+              <input type="text" id="input-arrival-date" class="date-input" placeholder="年/月/日" readonly>
+            </div>
+            <div class="date-range__item">
+              <span class="date-range__label">离开</span>
+              <input type="text" id="input-departure-date" class="date-input" placeholder="年/月/日" readonly>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label>📷 照片（可多选）</label>
+          <div id="photo-preview" class="photo-preview"></div>
+          <button id="btn-upload-photos" class="btn-secondary">📁 选择照片</button>
+        </div>
+        <div class="form-group">
+          <label>📝 游记文字</label>
+          <textarea id="note-textarea" placeholder="记录你的旅行故事..." rows="10"></textarea>
+        </div>
+        <div class="note-actions">
+          <button id="btn-checkin" class="btn-primary">📍 打卡</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 底部选色面板 ===== -->
+  <div id="color-picker-bar" class="color-picker-bar">
+    <div class="color-picker__label">🎨 选择打卡颜色：</div>
+    <div class="color-picker__colors" id="color-options"></div>
+    <div class="color-picker__city" id="color-picker-city-name"></div>
+  </div>
+
+  <!-- ===== 设置弹窗 ===== -->
+  <div id="settings-modal" class="modal" style="display:none;">
+    <div class="modal__overlay"></div>
+    <div class="modal__content">
+      <h2>⚙️ 设置</h2>
+      <div class="form-group">
+        <label>📁 图片存储位置</label>
+        <div class="path-input-row">
+          <input type="text" id="settings-photos-dir" readonly>
+          <button id="btn-change-photos-dir" class="btn-secondary">更换文件夹</button>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>🎨 默认打卡颜色</label>
+        <div id="default-color-options" class="settings-color-options"></div>
+      </div>
+      <div class="form-group" id="settings-auth-section">
+        <label>👤 账户</label>
+        <div id="settings-user-email" style="font-size:14px;color:#666;margin-bottom:8px;"></div>
+        <button id="btn-logout" class="btn-danger">退出登录</button>
+      </div>
+      <div class="modal__actions">
+        <button id="btn-close-settings" class="btn-primary">关闭</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 隐藏的文件选择器（照片上传用） ===== -->
+  <input type="file" id="file-input" multiple accept="image/*" style="display:none;">
+
+  <script src="/node_modules/leaflet/dist/leaflet.js"></script>
+  <script src="/renderer/js/config.js"></script>
+  <script src="/renderer/js/api.js"></script>
+  <script src="/renderer/js/auth.js"></script>
+  <script src="/renderer/js/storage.js"></script>
+  <script src="/renderer/js/splash.js"></script>
+  <script src="/renderer/js/map-core.js"></script>
+  <script src="/renderer/js/map-interact.js"></script>
+  <script src="/renderer/js/panel-left.js"></script>
+  <script src="/renderer/js/panel-right.js"></script>
+  <script src="/renderer/js/search.js"></script>
+  <script src="/renderer/js/app.js"></script>
+</body>
+</html>
